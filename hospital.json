@@ -1,0 +1,4 @@
+{ "returnCode": 0, "msg": "string", "systemTimestamp": 1725262580, "hospital": [ {
+    "code": "1001011", "name": "三軍總醫院附設基隆民眾診療服務處", "area": "北",
+    "updatedOn": 1725262469 }, { "code": "1001045", "name": "中正脊椎骨科醫院",
+    "area": "南", "updatedOn": 1725251469 } ] }
