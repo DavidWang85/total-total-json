@@ -1,5 +1,5 @@
 {
 "returnCode":0,
-"msg":"string",
-"Token":"string"
+"msg":"登入成功",
+"Token":"ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 }
